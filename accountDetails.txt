@@ -1,0 +1,16 @@
+Dua-e-zehra 
+PK12 6789 1234 7653
+120000
+-30000
+Deposited: 1000
+Withdrawn: 100
+
+
+
+Withdrawn: -12
+Deposited: -12
+Deposited: 120000
+Deposited: 1200
+Withdrawn: 1200
+Deposited: 29000
+Withdrawn: 30000
